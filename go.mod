@@ -15,7 +15,7 @@ require (
 	github.com/bep/goportabletext v0.1.0
 	github.com/bep/gowebp v0.3.0
 	github.com/bep/helpers v0.5.0
-	github.com/bep/imagemeta v0.11.0
+	github.com/bep/imagemeta v0.12.0
 	github.com/bep/lazycache v0.8.0
 	github.com/bep/logg v0.4.0
 	github.com/bep/mclib v1.20400.20402
@@ -70,7 +70,7 @@ require (
 	github.com/tdewolff/parse/v2 v2.7.15
 	github.com/tetratelabs/wazero v1.9.0
 	github.com/yuin/goldmark v1.7.10
-	github.com/yuin/goldmark-emoji v1.0.5
+	github.com/yuin/goldmark-emoji v1.0.6
 	go.uber.org/automaxprocs v1.5.3
 	gocloud.dev v0.40.0
 	golang.org/x/exp v0.0.0-20221031165847-c99f073a8326
